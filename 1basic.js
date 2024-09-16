@@ -14,3 +14,4 @@ let login = true //boolean true/false
 console.log(typeof age);
 console.log(typeof undefined); //undefined is datatype
 console.log(typeof null); 
+console.log("hii");
